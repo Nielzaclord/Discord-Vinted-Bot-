@@ -1,1 +1,1 @@
-# Discord-Vinted-Bot-
+# Discord-Vinted-Bot
