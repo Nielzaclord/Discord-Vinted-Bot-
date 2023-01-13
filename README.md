@@ -9,3 +9,8 @@ Optimisez votre expérience d'achat sur Vinted avec notre bot Discord exclusif !
 ## [ENG]
 
 Optimize your shopping experience on Vinted with our exclusive Discord bot! With our automated tool, you will have real-time access to detailed information about items, including price, size, photos, views, and likes. No need to scroll through pages and pages of products, our bot gives you all the information you need to make an informed buying decision. It is easy to use and can be customized to your search preferences. Never miss a great deal on Vinted again with our Discord bot !
+
+# Image 
+![img2](!![image](https://user-images.githubusercontent.com/61885397/212331527-ccf0a04f-2c3b-4fc6-8b92-9faa41ebf7e8.png)
+![img2](!![image]([https://user-images.githubusercontent.com/61885397/212331527-ccf0a04f-2c3b-4fc6-8b92-9faa41ebf7e8.png](https://public-files.gumroad.com/3youg8ae3bagkskwu2j5n4uy17az))
+![img2](https://public-files.gumroad.com/0mmb0nrk1jh7ibx140gwcdnu23b6)
