@@ -14,4 +14,4 @@ Optimize your shopping experience on Vinted with our exclusive Discord bot! With
 ![img2](!![image](https://user-images.githubusercontent.com/61885397/212331527-ccf0a04f-2c3b-4fc6-8b92-9faa41ebf7e8.png)
 ![imag](https://public-files.gumroad.com/3youg8ae3bagkskwu2j5n4uy17az)
 ![img2](https://public-files.gumroad.com/0mmb0nrk1jh7ibx140gwcdnu23b6)
-![img2]([https://public-files.gumroad.com/0mmb0nrk1jh7ibx140gwcdnu23b6](https://public-files.gumroad.com/pwkz7a2s0tv0h1rvtv1wf35wn3ej))
+![img3]([https://public-files.gumroad.com/0mmb0nrk1jh7ibx140gwcdnu23b6](https://public-files.gumroad.com/pwkz7a2s0tv0h1rvtv1wf35wn3ej))
