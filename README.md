@@ -1,5 +1,7 @@
 # Discord-Vinted-Bot
 
+# Code : https://mercuresoftware.gumroad.com/l/botVintedDiscord?a=540863603
+
 ![Image](https://public-files.gumroad.com/variants/uyvden3svfngm0rth6wbng4az6vz/b26ced27d824e640f058fe06b53971cdeb008a83405d104c79bd80c274dc780a)
 
 ## [FR]
